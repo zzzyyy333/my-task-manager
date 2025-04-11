@@ -3,7 +3,7 @@
 *A website of awesome Github Profile READMEs*
 
 ![preview](screenshots/preview.png)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zzzyyy333&show_icons=true)
 
 
 ## 🔗 Links
